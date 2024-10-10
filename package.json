@@ -1,0 +1,14 @@
+{
+    "name": "data-structures-and-algorithms",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "keywords": [
+        "data structures",
+        "algorithms",
+        "javascript"
+    ],
+    "author": "Aghata Truta",
+    "license": "MIT",
+    "description": "Implementation and solutions to coding challenges of data structures and algorithms using JavaScript"
+}
